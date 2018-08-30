@@ -5,8 +5,8 @@ Write all your commands on separate lines in challenge/answer.txt. Start from th
 ### Challenge 1 - movies
 In the folder "movies" there are five folders. Three of them have a plot.txt file inside and two do not.
 
-* Add the content of the two "missing_plot-files" to the correct folders and change the name of the files to "plot.txt".
-* Delete all files in the movie-folders except the plot-files.
+1. Add the content of the two "missing_plot-files" to the correct folders and change the name of the files to "plot.txt".
+2. Delete all files in the movie-folders except the plot-files.
 
 
 ### Challenge 2 - books
